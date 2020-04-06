@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/BST" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/SetAndMap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Heap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SegmentTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
