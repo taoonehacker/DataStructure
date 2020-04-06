@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/StacksAndQueues" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LinkedList" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SetAndMap" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
