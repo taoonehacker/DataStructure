@@ -13,6 +13,7 @@
       <sourceFolder url="file://$MODULE_DIR$/SegmentTree" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Trie" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/UnionFind" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/AVLTree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
